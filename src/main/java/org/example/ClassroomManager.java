@@ -7,7 +7,7 @@ import java.util.Scanner;
 // This class implements the UI for the student and teacher management system.
 // You don't need to modify this class.
 public class ClassroomManager {
-    private static final Scanner scanner = new Scanner(System.in);
+    static final Scanner scanner = new Scanner(System.in);
     private static final List<Student> students = new ArrayList<>();
     private static final List<Teacher> teachers = new ArrayList<>();
 

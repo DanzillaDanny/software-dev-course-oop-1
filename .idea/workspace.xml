@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa754f57-8d3f-447f-aa0e-728017f07765" name="Changes" comment="&quot;completed tasks-performed tests-addressed errors-ready to commit and push&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fa754f57-8d3f-447f-aa0e-728017f07765" name="Changes" comment="&quot;completed with group in class implementing changes we made.&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TeacherTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TeacherTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738943613140</updated>
       <workItem from="1765945302632" duration="4486000" />
-      <workItem from="1766021966784" duration="549000" />
+      <workItem from="1766021966784" duration="1065000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;completed tasks-performed tests-addressed errors-ready to commit and push&quot;">
       <option name="closed" value="true" />
@@ -130,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765949146272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;completed with group in class implementing changes we made.&quot;">
+      <option name="closed" value="true" />
+      <created>1766022603890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766022603890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;completed tasks-performed tests-addressed errors-ready to commit and push&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;completed tasks-performed tests-addressed errors-ready to commit and push&quot;" />
+    <MESSAGE value="&quot;completed with group in class implementing changes we made.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;completed with group in class implementing changes we made.&quot;" />
   </component>
 </project>
